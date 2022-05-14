@@ -1,0 +1,11 @@
+had to add libs:
+C:\Projects\Test Equipment\hantek6254bd_reveng-master\hantek6254bd_reveng-master\SDK\LIb
+(from hantek API)
+
+Had to add .dll files to output folder:
+C:\Projects\Test Equipment\hantek6254bd_reveng-master\hantek6254bd_reveng-master\x64\Debug\
+HTHardDll.dll
+HTSoftDll.dll
+MeasDll.dll
+HTDisplayDll.dll
+(I used the 64 bit ones but I kept the .dll that came with the repo which is different (smaller) than the x64 one in the hantek API)

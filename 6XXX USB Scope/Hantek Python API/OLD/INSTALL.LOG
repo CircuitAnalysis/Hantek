@@ -1,0 +1,175 @@
+***  Installation Started 08/12/2021 17:14  ***
+Title: Hantek-6000 Ver2.2.5 Installation
+Source: C:\Users\adams\Desktop\Circuit Analysis\Test Equipment\Hantek\Hantek Scope SDK\Setup.EXE | 04-09-2019 | 18:09:30 | 6489342
+Made Dir: C:\PROGRA~2\Hantek6000
+File Copy: C:\Program Files (x86)\Hantek6000\UNWISE.EXE | 07-26-2002 | 17:02:06 | | 153088 | 5be5019b
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Hantek-6000 Ver2.2.5
+RegDB Val: Hantek-6000 Ver2.2.5
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Hantek-6000 Ver2.2.5
+RegDB Val: C:\PROGRA~2\HANTEK~2\UNWISE.EXE C:\PROGRA~2\HANTEK~2\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+Made Dir: C:\PROGRA~2\Hantek6000\Driver
+Made Dir: C:\PROGRA~2\Hantek6000\Driver\Win10
+File Copy: C:\Program Files (x86)\Hantek6000\Driver\Win10\Hantek6000BX86.sys | 09-03-2018 | 18:46:26 | 1.0.0.1 | 34232 | e8c92b55
+File Copy: C:\Program Files (x86)\Hantek6000\Driver\Win10\Hantek6000BIA64.sys | 09-03-2018 | 18:46:26 | 1.0.0.1 | 64696 | 45a1fbe
+File Copy: C:\Program Files (x86)\Hantek6000\Driver\Win10\Hantek6000BAMD64.Sys | 09-03-2018 | 18:46:24 | 1.0.0.1 | 37936 | 605dcabc
+File Copy: C:\Program Files (x86)\Hantek6000\Driver\Win10\Hantek6000B.inf | 09-04-2018 | 09:30:34 | | 2868 | cf43fb2e
+File Copy: C:\Program Files (x86)\Hantek6000\Driver\Win10\Hantek6000B.cat | 09-03-2018 | 18:46:24 | | 11881 | cd7b58aa
+Made Dir: C:\PROGRA~2\Hantek6000\Driver\Others
+File Copy: C:\Program Files (x86)\Hantek6000\Driver\Others\Hantek6000BX86.sys | 09-06-2018 | 14:50:04 | 1.0.0.1 | 21872 | f29d2762
+File Copy: C:\Program Files (x86)\Hantek6000\Driver\Others\Hantek6000BIA64.sys | 09-06-2018 | 14:50:02 | 1.0.0.1 | 52336 | 6d56fcea
+File Copy: C:\Program Files (x86)\Hantek6000\Driver\Others\Hantek6000BAMD64.Sys | 09-06-2018 | 14:50:00 | 1.0.0.1 | 25584 | f734e541
+File Copy: C:\Program Files (x86)\Hantek6000\Driver\Others\Hantek6000B.inf | 09-06-2018 | 14:49:56 | | 2868 | cf43fb2e
+File Copy: C:\Program Files (x86)\Hantek6000\Driver\Others\Hantek6000B.cat | 09-06-2018 | 14:49:58 | | 10434 | b1c81672
+Made Dir: C:\PROGRA~2\Hantek6000\Bin
+File Copy: C:\Program Files (x86)\Hantek6000\Bin\DriverSelfInstall.exe | 09-06-2018 | 15:16:40 | | 57344 | 9de14ac
+File Copy: C:\Program Files (x86)\Hantek6000\Bin\dpinst64.exe | 11-27-2014 | 18:29:32 | 2.1.0.0 | 677952 | bf4a1c36
+File Copy: C:\Program Files (x86)\Hantek6000\Bin\dpinst.exe | 11-27-2014 | 18:29:32 | 2.1.0.0 | 552528 | af5b33b
+Made Dir: C:\PROGRA~2\Hantek6000\Language
+File Copy: C:\Program Files (x86)\Hantek6000\Language\Spanish.lug | 03-30-2018 | 11:51:22 | | 35734 | 3c967c06
+File Copy: C:\Program Files (x86)\Hantek6000\Language\Russian.lug | 03-30-2018 | 11:23:56 | | 33082 | ee75be1e
+File Copy: C:\Program Files (x86)\Hantek6000\Language\Polish.lug | 03-30-2018 | 11:49:56 | | 34708 | a2742ef9
+File Copy: C:\Program Files (x86)\Hantek6000\Language\Kroean.lug | 03-30-2018 | 11:43:34 | | 23616 | 12635d6
+File Copy: C:\Program Files (x86)\Hantek6000\Language\Italy.lug | 03-30-2018 | 11:42:26 | | 31202 | b3da7bda
+File Copy: C:\Program Files (x86)\Hantek6000\Language\German.lug | 03-30-2018 | 11:41:12 | | 31026 | 13b01b7
+File Copy: C:\Program Files (x86)\Hantek6000\Language\French.lug | 03-30-2018 | 11:39:40 | | 29978 | 46450a1a
+File Copy: C:\Program Files (x86)\Hantek6000\Language\English.lug | 02-11-2018 | 15:59:38 | | 16491 | d700b762
+File Copy: C:\Program Files (x86)\Hantek6000\Language\Dutch.lug | 03-30-2018 | 11:46:38 | | 30438 | 3ec26081
+File Copy: C:\Program Files (x86)\Hantek6000\Language\ChineseTra.lug | 03-30-2018 | 11:35:58 | | 19538 | bec3e2f7
+File Copy: C:\Program Files (x86)\Hantek6000\Language\Chinese.lug | 03-30-2018 | 11:33:52 | | 20548 | 71cdf38e
+File Copy: C:\Program Files (x86)\Hantek6000\HTNTLVDll.dll | 11-08-2017 | 09:11:52 | | 86016 | b550337f
+File Copy: C:\Program Files (x86)\Hantek6000\HTSoftDll.dll | 11-28-2018 | 15:54:28 | | 73728 | f0eea961
+File Copy: C:\Program Files (x86)\Hantek6000\MeasDll.dll | 11-28-2018 | 15:54:56 | | 53248 | 116837bb
+File Copy: C:\Program Files (x86)\Hantek6000\RestoreIIC.exe | 07-18-2016 | 08:38:26 | 1.2.2.0 | 100864 | 3dd52cab
+File Copy: C:\Program Files (x86)\Hantek6000\Scope.exe | 04-10-2019 | 09:08:10 | 1.0.0.1 | 3866624 | 1eb613ff
+File Copy: C:\Program Files (x86)\Hantek6000\HTLANDll.dll | 09-19-2015 | 17:01:58 | | 65536 | d6d4496
+File Copy: C:\Program Files (x86)\Hantek6000\HTHardDll.dll | 04-10-2019 | 08:39:16 | | 98304 | 3697fd9e
+File Copy: C:\Program Files (x86)\Hantek6000\HTFFTDll.dll | 08-06-2015 | 10:51:10 | | 53248 | 6ecb2283
+File Copy: C:\Program Files (x86)\Hantek6000\HTETSDll.dll | 09-19-2015 | 17:00:16 | | 45056 | a8bb8eb
+File Copy: C:\Program Files (x86)\Hantek6000\HTDisplayDll.dll | 11-28-2018 | 15:53:42 | | 90112 | 988c0f70
+File Copy: C:\Program Files (x86)\Hantek6000\HTDecodeDll.dll | 06-01-2016 | 16:52:22 | | 36864 | 8e8c4dd7
+File Copy: C:\Program Files (x86)\Hantek6000\gdiplus.dll | 10-24-2000 | 23:12:42 | 5.0.3049.0 | 1503232 | 61554be4
+File Copy: C:\Program Files (x86)\Hantek6000\DSOHelp-English.chm | 12-09-2016 | 16:56:00 | | 1574743 | 2c51f62c
+File Copy: C:\Program Files (x86)\Hantek6000\CyUSB.dll | 07-18-2016 | 08:38:26 | 1.2.2.0 | 139264 | 9569cdd1
+File Copy: C:\Program Files (x86)\Hantek6000\00010.ico | 11-14-2009 | 09:03:06 | | 2238 | 27eeb6b8
+Made Dir: C:\PROGRA~2\Hantek6000\Auto
+Made Dir: C:\PROGRA~2\Hantek6000\Auto\wfm
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_SENSORS_TS.amr | 04-16-2010 | 15:39:42 | | 8058 | 75d1752d
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_SENSORS_TP_TP.amr | 04-16-2010 | 15:38:20 | | 1586 | 1f8e01e9
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_SENSORS_TBD.amr | 04-16-2010 | 15:41:18 | | 3258 | 269d4d38
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_SENSORS_RS_HE.amr | 04-16-2010 | 15:37:22 | | 7554 | 99deb9c3
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_SENSORS_M_D.amr | 04-16-2010 | 15:36:40 | | 75122 | 636d5c
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_SENSORS_M_A.amr | 04-16-2010 | 15:35:44 | | 1650 | 5ef89933
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_SENSORS_L_ZPPC.amr | 04-16-2010 | 15:34:26 | | 20050 | 84e93f1f
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_SENSORS_L_Z.amr | 04-16-2010 | 15:31:26 | | 4042 | cbac01d8
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_SENSORS_L_T.amr | 04-16-2010 | 15:30:26 | | 8038 | 410ac87b
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_SENSORS_KNOCK.amr | 04-16-2010 | 15:29:38 | | 7866 | 7e813009
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_SENSORS_D_IP_R.amr | 04-16-2010 | 15:28:08 | | 75122 | e9bbe7c
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_SENSORS_D_IP_C.amr | 04-16-2010 | 15:26:50 | | 93890 | a364282e
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_SENSORS_D_HEP.amr | 04-16-2010 | 15:26:02 | | 7554 | f9a2a69a
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_SENSORS_C_I_RC_R.amr | 04-16-2010 | 15:18:56 | | 9430 | 2b1a9063
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_SENSORS_C_I_RC_C.amr | 04-16-2010 | 15:20:32 | | 9430 | 2342dea4
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_SENSORS_C_I.amr | 04-16-2010 | 15:09:56 | | 7554 | 711e0f4d
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_SENSORS_C_HEBD.amr | 04-16-2010 | 15:16:20 | | 46966 | 8d557474
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_SENSORS_C_HE2.amr | 04-16-2010 | 15:22:16 | | 7554 | dde2fad7
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_SENSORS_C_HE.amr | 04-16-2010 | 15:08:56 | | 75122 | bf36ee85
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_SENSORS_C_CPI.amr | 04-16-2010 | 15:25:06 | | 120186 | a51ff9c1
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_SENSORS_C_ACE.amr | 04-16-2010 | 15:14:32 | | 2466 | b470d404
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_SENSORS_CT_VS.amr | 04-16-2010 | 15:18:06 | | 99846 | aee8212
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_SENSORS_CT_5V.amr | 04-16-2010 | 15:17:12 | | 10038 | 8a553553
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_SENSORS_AP.amr | 04-16-2010 | 14:56:56 | | 1562 | 3dd042e1
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_SENSORS_AIPBD.amr | 04-16-2010 | 15:08:08 | | 4062 | 7f2b1da7
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_SENSORS_AFM_HW.amr | 04-16-2010 | 15:02:38 | | 1478 | 96d520df
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_SENSORS_AFM_AV.amr | 04-16-2010 | 15:03:32 | | 11778 | f9d2e586
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_SENSORS_AFM_ABD.amr | 04-16-2010 | 15:06:18 | | 4074 | 85cf18f7
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_SENSORS_ABS_D.amr | 04-16-2010 | 14:53:28 | | 50074 | c7722642
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_SENSORS_ABS_A.amr | 04-16-2010 | 14:52:12 | | 75138 | d694c95
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_IGNITION_S_SDPL.amr | 04-17-2010 | 09:52:28 | | 60106 | 514f5ce3
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_IGNITION_S_SDP.amr | 04-17-2010 | 09:54:40 | | 60106 | 4ff47bc
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_IGNITION_S_SDN.amr | 04-17-2010 | 09:53:08 | | 60106 | 29ef7efb
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_IGNITION_S_SDKL.amr | 04-17-2010 | 09:51:48 | | 60106 | 4889678d
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_IGNITION_S_SCOT.amr | 04-17-2010 | 09:55:20 | | 60106 | d6af6450
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_IGNITION_S_PSI.amr | 04-17-2010 | 09:57:18 | | 120186 | aee8ed91
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_IGNITION_P_PVC.amr | 04-17-2010 | 09:50:58 | | 120186 | 88ede7ff
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_IGNITION_P_PSI.amr | 04-17-2010 | 09:48:50 | | 120186 | aee8ed91
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_IGNITION_P_PICAS.amr | 04-17-2010 | 09:47:02 | | 120186 | a51ff9c1
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_IGNITION_P_PC.amr | 04-17-2010 | 09:45:42 | | 60106 | ec0bd49a
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_IGNITION_P_P.amr | 04-17-2010 | 09:44:58 | | 120166 | d3eaea38
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_IGNITION_EUPSS.amr | 04-17-2010 | 10:03:08 | | 75138 | c0267b82
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_IGNITION_ETEAS.amr | 04-17-2010 | 10:04:16 | | 75138 | 9fdf8034
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_IGNITION_AE.amr | 04-17-2010 | 10:01:40 | | 7554 | 4abeafb2
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_FL_IMVI.amr | 04-17-2010 | 10:42:40 | | 93906 | 8f2e6648
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_FL_FPRVI.amr | 04-17-2010 | 10:43:36 | | 75138 | b5741b1f
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_FL_EII.amr | 04-17-2010 | 10:41:04 | | 75138 | 27e1f4aa
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_FL_EIC.amr | 04-17-2010 | 10:17:40 | | 93906 | fba2923b
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_CS_SVD.amr | 04-16-2010 | 14:47:54 | | 12850 | 812d2a09
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_CS_RC_PETROL.amr | 04-16-2010 | 14:45:24 | | 1518 | 37779196
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_CS_RC_DIESEL.amr | 04-16-2010 | 14:46:28 | | 1594 | 534409f2
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_CS_CC_CVS24V.amr | 04-16-2010 | 14:43:24 | | 48898 | 635b0684
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_CS_CC_CVI24V.amr | 04-16-2010 | 14:40:50 | | 39130 | 678d8ab0
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_CS_CC_CV.amr | 04-16-2010 | 14:39:40 | | 12274 | 85737c55
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_CS_CC_ACRDT.amr | 04-16-2010 | 14:44:30 | | 5910 | 839ae42b
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_CAN_SI.amr | 04-17-2010 | 10:05:10 | | 40066 | 6830470f
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_CAN_LHLC.amr | 05-11-2010 | 13:55:10 | | 625066 | bbb840d
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_CAN_LB.amr | 04-17-2010 | 10:15:46 | | 60106 | 2e926d30
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_CAN_DV.amr | 04-17-2010 | 10:06:54 | | 400066 | c027b978
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_ACTUATORS_VVT.amr | 04-17-2010 | 09:43:50 | | 7554 | 367420ec
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_ACTUATORS_VSCF_FAN_ON.amr | 04-17-2010 | 09:28:40 | | 62578 | 5449a431
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_ACTUATORS_VSCF_FAN_OFF.amr | 04-03-2015 | 11:23:36 | | 62578 | f2001faf
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_ACTUATORS_TS_R.amr | 04-17-2010 | 09:24:22 | | 80058 | ca3c3623
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_ACTUATORS_TS_I.amr | 04-17-2010 | 09:21:26 | | 80058 | 81417db2
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_ACTUATORS_SM_E2.amr | 04-17-2010 | 09:17:02 | | 7554 | e95af10b
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_ACTUATORS_SM_E1.amr | 04-17-2010 | 09:16:02 | | 7554 | d1ef9291
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_ACTUATORS_QCV_BC.amr | 04-17-2010 | 09:18:24 | | 9430 | 50e872eb
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_ACTUATORS_CCSV.amr | 04-17-2010 | 08:15:28 | | 5910 | c8f22b5b
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_ACTUATORS_D.amr | 04-17-2010 | 08:18:42 | | 2554 | 72205f96
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_ACTUATORS_ESV.amr | 04-17-2010 | 08:14:08 | | 24070 | 618b3e51
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_ACTUATORS_FP.amr | 04-17-2010 | 08:21:26 | | 30078 | 3614e855
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_ACTUATORS_ID_CRD.amr | 04-17-2010 | 09:09:18 | | 1000122 | 8ca6f50d
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_ACTUATORS_ID_IBCC.amr | 04-17-2010 | 09:12:44 | | 30078 | dfcf1f8e
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_ACTUATORS_ID_IBD_A.amr | 04-17-2010 | 08:39:16 | | 60106 | fdf4c3f9
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_ACTUATORS_ID_IBD_I.amr | 04-17-2010 | 08:38:08 | | 60106 | 4a83a6ee
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_ACTUATORS_IP_IVC.amr | 04-17-2010 | 08:35:06 | | 400106 | d571aebd
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_ACTUATORS_IP_MIC.amr | 04-17-2010 | 08:24:10 | | 200066 | 5962e9cc
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_ACTUATORS_IP_MIV.amr | 04-17-2010 | 08:23:00 | | 100066 | 6c9026b2
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_ACTUATORS_IP_PIIC.amr | 04-17-2010 | 08:37:10 | | 75138 | 4e4f393f
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_ACTUATORS_IP_SI.amr | 04-17-2010 | 08:30:36 | | 7554 | 2b1d6781
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_ACTUATORS_IP_SIC.amr | 04-17-2010 | 08:32:18 | | 7554 | 36b1b0da
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_ACTUATORS_ISCV_E.amr | 04-17-2010 | 09:15:02 | | 75122 | 1c3dbb8f
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_ACTUATORS_ISCV_R.amr | 04-17-2010 | 09:14:06 | | 75122 | c7c4144a
+File Copy: C:\Program Files (x86)\Hantek6000\Auto\wfm\AM_ACTUATORS_PR_BC.amr | 04-17-2010 | 09:19:08 | | 9430 | e993368a
+Made Dir: C:\PROGRA~2\Hantek6000\Backup
+Shell Link: C:\Users\adams\Desktop\Hantek6000.lnk
+Link Info: C:\Program Files (x86)\Hantek6000\Scope.exe |  |  | 0 | 1 | 0 | 
+Shell Link: 
+Link Info:  |  |  | 0 | 1 | 0 | 
+Shell Link: 
+Link Info:  |  |  | 0 | 1 | 0 | 
+Could not Self-Register: C:\Program Files (x86)\Hantek6000\Driver\Win10\Hantek6000BX86.sys
+Could not Self-Register: C:\Program Files (x86)\Hantek6000\Driver\Win10\Hantek6000BIA64.sys
+Could not Self-Register: C:\Program Files (x86)\Hantek6000\Driver\Win10\Hantek6000BAMD64.Sys
+Could not Self-Register: C:\Program Files (x86)\Hantek6000\Driver\Others\Hantek6000BX86.sys
+Could not Self-Register: C:\Program Files (x86)\Hantek6000\Driver\Others\Hantek6000BIA64.sys
+Could not Self-Register: C:\Program Files (x86)\Hantek6000\Driver\Others\Hantek6000BAMD64.Sys
+Could not Self-Register: C:\Program Files (x86)\Hantek6000\CyUSB.dll
+INI New: Created INI
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Hantek-6000 Ver2.2.5
+RegDB Val: C:\PROGRA~2\Hantek6000\00010.ico,-0
+RegDB Name: DisplayIcon
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Hantek-6000 Ver2.2.5
+RegDB Val: http://www.hantek.com.cn/
+RegDB Name: HelpLink
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Hantek-6000 Ver2.2.5
+RegDB Val: 053288703687
+RegDB Name: HelpTelephone
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Hantek-6000 Ver2.2.5
+RegDB Val: Qingdao Hantek
+RegDB Name: Publisher
+RegDB Root: 2
+User Rights: Admin

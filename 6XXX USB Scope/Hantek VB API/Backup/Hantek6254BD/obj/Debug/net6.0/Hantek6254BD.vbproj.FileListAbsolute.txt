@@ -1,0 +1,5 @@
+C:\Projects\Test Equipment\Hantek VB API\Hantek6254BD\obj\Debug\net6.0\Hantek6254BD.vbproj.AssemblyReference.cache
+C:\Projects\Test Equipment\Hantek VB API\Hantek6254BD\obj\Debug\net6.0\Hantek6254BD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Test Equipment\Hantek VB API\Hantek6254BD\obj\Debug\net6.0\Hantek6254BD.AssemblyInfoInputs.cache
+C:\Projects\Test Equipment\Hantek VB API\Hantek6254BD\obj\Debug\net6.0\Hantek6254BD.AssemblyInfo.vb
+C:\Projects\Test Equipment\Hantek VB API\Hantek6254BD\obj\Debug\net6.0\Hantek6254BD.vbproj.CoreCompileInputs.cache

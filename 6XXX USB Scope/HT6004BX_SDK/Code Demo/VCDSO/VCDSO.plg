@@ -1,0 +1,60 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: VCDSO - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/VCDSO.res" /d "_DEBUG" /d "_AFXDLL" "C:\Users\Lee\Desktop\DSO6000_SDK\Code Demo\VCDSO\VCDSO.rc"" 
+Creating temporary file "C:\Users\Lee\AppData\Local\Temp\RSPAF77.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/VCDSO.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\Lee\Desktop\DSO6000_SDK\Code Demo\VCDSO\Hard.cpp"
+"C:\Users\Lee\Desktop\DSO6000_SDK\Code Demo\VCDSO\MainFrm.cpp"
+"C:\Users\Lee\Desktop\DSO6000_SDK\Code Demo\VCDSO\VCDSO.cpp"
+"C:\Users\Lee\Desktop\DSO6000_SDK\Code Demo\VCDSO\VCDSODoc.cpp"
+"C:\Users\Lee\Desktop\DSO6000_SDK\Code Demo\VCDSO\VCDSOView.cpp"
+]
+Creating command line "cl.exe @C:\Users\Lee\AppData\Local\Temp\RSPAF77.tmp" 
+Creating temporary file "C:\Users\Lee\AppData\Local\Temp\RSPAF78.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/VCDSO.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\Lee\Desktop\DSO6000_SDK\Code Demo\VCDSO\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\Users\Lee\AppData\Local\Temp\RSPAF78.tmp" 
+Creating temporary file "C:\Users\Lee\AppData\Local\Temp\RSPAF79.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/VCDSO.pdb" /debug /machine:I386 /out:"Debug/VCDSO.exe" /pdbtype:sept 
+".\Debug\Hard.obj"
+".\Debug\MainFrm.obj"
+".\Debug\StdAfx.obj"
+".\Debug\VCDSO.obj"
+".\Debug\VCDSODoc.obj"
+".\Debug\VCDSOView.obj"
+".\Debug\VCDSO.res"
+]
+Creating command line "link.exe @C:\Users\Lee\AppData\Local\Temp\RSPAF79.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+c:\users\lee\desktop\dso6000_sdk\headfiles\htharddll.h(1) : error C2018: unknown character '0xef'
+c:\users\lee\desktop\dso6000_sdk\headfiles\htharddll.h(1) : error C2018: unknown character '0xbb'
+c:\users\lee\desktop\dso6000_sdk\headfiles\htharddll.h(1) : error C2018: unknown character '0xbf'
+c:\users\lee\desktop\dso6000_sdk\headfiles\htharddll.h(1) : error C2014: preprocessor command must start as first nonwhite space
+c:\users\lee\desktop\dso6000_sdk\headfiles\htharddll.h(204) : fatal error C1070: mismatched #if/#endif pair in file 'c:\users\lee\desktop\dso6000_sdk\headfiles\htharddll.h'
+Error executing cl.exe.
+Creating command line "bscmake.exe /nologo /o"Debug/VCDSO.bsc"  ".\Debug\StdAfx.sbr" ".\Debug\Hard.sbr" ".\Debug\MainFrm.sbr" ".\Debug\VCDSO.sbr" ".\Debug\VCDSODoc.sbr" ".\Debug\VCDSOView.sbr""
+Creating browse info file...
+BSCMAKE: error BK1506 : cannot open file '.\Debug\StdAfx.sbr': No such file or directory
+Error executing bscmake.exe.
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+VCDSO.exe - 6 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
