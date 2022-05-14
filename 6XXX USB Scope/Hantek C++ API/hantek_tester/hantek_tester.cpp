@@ -356,8 +356,8 @@ int main()
         
         MyFile << curTime << "\t" << ch1Voltage << "\t" << ch2Voltage << "\t" << ch3Voltage << "\t" << ch4Voltage << std::endl;
     }
-     Close the file
-    MyFile.close();
+   //Close the file
+  MyFile.close();
 
     std::cout << "COMPLETED SUCCESSFULLY!!!" << std::endl;
 

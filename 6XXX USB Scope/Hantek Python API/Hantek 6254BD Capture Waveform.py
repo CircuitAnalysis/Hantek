@@ -9,8 +9,8 @@ import numpy
 import matplotlib.pyplot as plt
 #https://docs.python.org/3/library/ctypes.html
 # load dll (cdll or windll)
-# OBJdll = windll.LoadLibrary(r".\Dll\x64\HTHardDll.dll") # (64 bit)
-OBJdll = windll.LoadLibrary(r".\Dll\x86\HTHardDll.dll") # (32 bit)
+OBJdll = windll.LoadLibrary(r".\Dll\x64\HTHardDll.dll") # (64 bit)
+# OBJdll = windll.LoadLibrary(r".\Dll\x86\HTHardDll.dll") # (32 bit)
 
 class RELAYCONTROL(Structure):
     _fields_ = [('bCHEnable', wintypes.BOOL * 4),
