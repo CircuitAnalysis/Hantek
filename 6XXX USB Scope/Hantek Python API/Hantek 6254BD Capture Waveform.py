@@ -109,17 +109,6 @@ stDataControl.nReadDataLen = 4096 # the length of the read data
 stDataControl.nAlreadyReadLen = 0 # the length that has been read, only used in scan scrolling
 stDataControl.nALT = 0 #Whether to trigger alternately. Note that alternate triggering is a software function
 
-stDataControl.nCHSet = 15 #0x0F (15) means all 4 channels are open
-stDataControl.nTimeDIV = 10 # Time base index value
-stDataControl.nTriggerSource = 2 #Trigger source
-stDataControl.nHTriggerPos = 0 #horizontal trigger position
-stDataControl.nVTriggerPos = 10 #Vertical trigger position
-stDataControl.nTriggerSlope = 1 #Use the rising edge as the trigger method
-stDataControl.nBufferLen = 4096 # the length of the collected data
-stDataControl.nReadDataLen = 4096 # the length of the read data
-stDataControl.nAlreadyReadLen = 0 # the length that has been read, only used in scan scrolling
-stDataControl.nALT = 0 #Whether to trigger alternately. Note that alternate triggering is a software function
-
 ################################################
 #           FIND AND INITIALIZE DEVICE
 ################################################
